@@ -1,1 +1,1 @@
-# stic
+# SPECIAL TOPICS IN COMPUTER
